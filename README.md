@@ -1,3 +1,5 @@
+Here to learn and expand my skillset
+
 🌱 I’m currently learning **mongoDB & Python**
 
 <p align="left">
