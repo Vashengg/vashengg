@@ -1,6 +1,5 @@
-- 🌱 I’m currently learning **mongoDB & Python**
+🌱 I’m currently learning **mongoDB & Python**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
